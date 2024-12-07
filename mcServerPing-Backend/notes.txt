@@ -1,0 +1,10 @@
+node to start server:
+
+nav to this directory
+
+run command: node server.mjs
+
+
+open 
+
+http://localhost:3000
